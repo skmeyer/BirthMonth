@@ -14,7 +14,6 @@ public class BirthMonth
            }
            else
            {
-
                System.out.println("Your input of " + birthMonth + " was not valid. Please enter a number from 1-12.");
            }
 
